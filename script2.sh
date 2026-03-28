@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Your Name Here | Course: Open Source Software
+# Author: Pratyush Verma | Course: Open Source Software
 # Purpose: Checks if git is installed and prints its details and philosophy
 
 # --- Define the package to inspect ---

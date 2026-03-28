@@ -1,0 +1,18 @@
+========================================
+   My Open Source Manifesto
+   Generated on: 28 March 2026
+========================================
+
+Every day, I rely on LINUX — a tool that exists
+because someone chose to build it openly and
+share it with the world for free. To me, freedom
+means ABILITY TO LEARN ANYTHING. It is that same spirit that drives
+open source: the belief that knowledge grows when
+it is shared, not hoarded.
+
+One day, I hope to build AN APP THAT COULD PROVIDE SHELTER TO ANYONE and release it
+under an open license — so that someone I have
+never met can use it, improve it, and pass it on.
+
+That is what open source means to me.
+

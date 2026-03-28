@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Your Name Here | Course: Open Source Software
+# Author: Pratyush Verma | Course: Open Source Software
 # Purpose: Displays system information like a welcome screen
 
 # --- Variables ---

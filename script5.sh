@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Your Name Here | Course: Open Source Software
+# Author: Pratyush Verma| Course: Open Source Software
 # Purpose: Asks user 3 questions and generates a personal philosophy statement
 
 echo "========================================"

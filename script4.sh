@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Your Name Here | Course: Open Source Software
+# Author: Pratyush Verma | Course: Open Source Software
 # Purpose: Reads a log file and counts occurrences of a keyword
 
 # --- Accept log file path and keyword as arguments ---

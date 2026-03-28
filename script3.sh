@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Your Name Here | Course: Open Source Software
+# Author: Pratyush Verma | Course: Open Source Software
 # Purpose: Loops through key directories and reports permissions and size
 
 # --- List of important system directories to audit ---
